@@ -1,2 +1,3 @@
-# self-ordering-kiosk
-Created a Kiosk for a restuarnt in whcih a customer can place the order online and Reastaurant can view the order and change status.
+# Food Self-Order Kiosk
+
+Welcome to the Food Self-Order Kiosk project! This application allows users to conveniently place food orders using a self-service kiosk. It is built using Material-UI, React, Node.js, and MongoDB.
